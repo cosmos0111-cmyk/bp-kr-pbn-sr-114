@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title><![CDATA[마사지]]></title>
+  <link>https://cosmos0111-cmyk.github.io/bp-kr-pbn-sr-114</link>
+  <description><![CDATA[마사지 - 홍대 마사지 정보 관련 최신 소식 및 가이드]]></description>
+  <language>ko</language>
+  <pubDate>Wed, 10 Jun 2026 02:12:03 GMT</pubDate>
+  <lastBuildDate>Wed, 10 Jun 2026 02:12:03 GMT</lastBuildDate>
+  <atom:link href="https://cosmos0111-cmyk.github.io/bp-kr-pbn-sr-114/feed.xml" rel="self" type="application/rss+xml" />
+  
+    <item>
+      <title><![CDATA[창작한 제목]]></title>
+      <link>https://cosmos0111-cmyk.github.io/bp-kr-pbn-sr-114/posts/field_note-001-1azpwea.html</link>
+      <guid isPermaLink="true">https://cosmos0111-cmyk.github.io/bp-kr-pbn-sr-114/posts/field_note-001-1azpwea.html</guid>
+      <description><![CDATA["쿠버네티스 1.29 CSI 드라이브 버그로 인해 발생하는 볼륨 마운트 경합 원인 및 예방 방안" ## 관찰 기록 ### 실패 사례 분석아, 진짜... Kubernetes 1.29에서 특정 CSI 드라이버와의 상호작용으로 발생한 볼륨 마운트 경합 버그는 보안 취약점이 ]]></description>
+      <pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[마사지 해결 방법 총정리 — 전문가가 알려주는 5가지 팁]]></title>
+      <link>https://cosmos0111-cmyk.github.io/bp-kr-pbn-sr-114/posts/guide-002-1azpwea.html</link>
+      <guid isPermaLink="true">https://cosmos0111-cmyk.github.io/bp-kr-pbn-sr-114/posts/guide-002-1azpwea.html</guid>
+      <description><![CDATA[### 포스트 메타정보포스트 기획 테마: 마사지 해결 방법 총정리 — 전문가가 알려주는 5가지 팁 백링크 지시: 본문 내러티브 속에서 다음 링크를 자연스러운 발견으로 녹여라: 리얼 후기 페이지 아, 진 real-time, 일본 내수용과 글로벌 버전 콘솔의 부품 호환성 ]]></description>
+      <pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
+</channel>
+</rss>
